@@ -19,7 +19,7 @@
 
 ---
 
-## 🔷 Module 3: Pattern Mining
+##  Module 3: Pattern Mining
 
 ### Contents:
 - **Frequent Pattern Mining** 
