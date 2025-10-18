@@ -1,6 +1,6 @@
 ## Module 1: DataUnderstanding&Preparation
 
-### Contents
+### Contents:
 - **Data Understanding** 
 - **Data Preparation** 
 - **Data Similarity** 
